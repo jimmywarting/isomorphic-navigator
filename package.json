@@ -1,7 +1,7 @@
 {
-  "name": "<package name>",
+  "name": "isomorphic-navigator",
   "version": "1.0.0",
-  "description": "<package desc>",
+  "description": "Navigator for Deno and NodeJS",
   "main": "mod.js",
   "type": "module",
   "scripts": {
@@ -9,21 +9,25 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/jimmywarting/<package name>.git"
+    "url": "git+https://github.com/jimmywarting/isomorphic-navigator.git"
   },
   "keywords": [
-    "key",
-    "words"
+    "NodeJS",
+    "Deno",
+    "Browser",
+    "isomorphic",
+    "global",
+    "Navigator"
   ],
   "author": "Jimmy Wärting <jimmy@warting.se> (https://jimmy.warting.se/opensource)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/jimmywarting/<package name>/issues"
+    "url": "https://github.com/jimmywarting/isomorphic-navigator/issues"
   },
   "engines": {
     "node": "^12.20.0 || ^14.13.0"
   },
-  "homepage": "https://github.com/jimmywarting/<package name>#readme",
+  "homepage": "https://github.com/jimmywarting/isomorphic-navigator#readme",
   "funding": [
     {
       "type": "github",
