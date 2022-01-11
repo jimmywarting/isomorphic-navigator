@@ -5,6 +5,7 @@
   "editor.tabSize": 2,
   "javascript.preferences.quoteStyle": "single",
   "javascript.format.insertSpaceAfterConstructor": true,
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": true,
   "javascript.format.insertSpaceAfterCommaDelimiter": true,
   "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": true,
   "javascript.format.semicolons": "remove",
@@ -12,5 +13,5 @@
   "javascript.suggest.completeJSDocs": true,
   "js/ts.implicitProjectConfig.checkJs": true,
   "editor.defaultFormatter": "vscode.typescript-language-features",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
 }
